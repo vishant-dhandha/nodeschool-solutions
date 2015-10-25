@@ -1,0 +1,25 @@
+{
+  "name": "expressworks",
+  "version": "1.0.0",
+  "description": "nodeschool solution for expressworks",
+  "main": "01.hello_world.js",
+  "dependencies": {
+    "body-parser": "^1.14.1",
+    "express": "^4.13.3",
+    "fs": "^0.0.2",
+    "crypto": "^0.0.3",
+    "jade": "^1.11.0",
+    "stylus": "^0.52.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodeshool",
+    "solution",
+    "expressworks"
+  ],
+  "author": "",
+  "license": "ISC"
+}
